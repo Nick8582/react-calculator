@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React Calculator IOS 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+Training work with React. The idea was suggested to me by the [Habr.com](https://habr.com/ru/post/578740/) service. The project is completed.
 
 ## Available Scripts
 
